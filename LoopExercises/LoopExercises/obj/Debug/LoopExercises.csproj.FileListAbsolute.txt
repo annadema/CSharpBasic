@@ -1,0 +1,5 @@
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\LoopExercises\LoopExercises\bin\Debug\LoopExercises.exe.config
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\LoopExercises\LoopExercises\bin\Debug\LoopExercises.exe
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\LoopExercises\LoopExercises\bin\Debug\LoopExercises.pdb
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\LoopExercises\LoopExercises\obj\Debug\LoopExercises.exe
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\LoopExercises\LoopExercises\obj\Debug\LoopExercises.pdb
