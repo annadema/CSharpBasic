@@ -1,0 +1,6 @@
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\ListExercises\ListExercises\bin\Debug\ListExercises.exe.config
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\ListExercises\ListExercises\bin\Debug\ListExercises.exe
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\ListExercises\ListExercises\bin\Debug\ListExercises.pdb
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\ListExercises\ListExercises\obj\Debug\ListExercises.csprojResolveAssemblyReference.cache
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\ListExercises\ListExercises\obj\Debug\ListExercises.exe
+C:\Users\annam\Documents\visual studio 2015\Projects\MOSH\ListExercises\ListExercises\obj\Debug\ListExercises.pdb
